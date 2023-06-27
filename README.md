@@ -1,4 +1,4 @@
-## Calculator Project [view live]()
+## Calculator Project [view live](https://emmily808.github.io/Calculator/)
 This project implements a basic calculator using JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Functionality
